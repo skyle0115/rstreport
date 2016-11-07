@@ -1,0 +1,7 @@
+pre {
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+}
+a.reference {
+    border-bottom-style: solid;
+}
